@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Najmitdinov
+- 👀 I’m interested in football
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me najmitdinovumar2@gmail.com or coutinho913300545@icloud.com
